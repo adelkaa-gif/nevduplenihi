@@ -1,2 +1,2 @@
-const SUPABASE_URL = "ВСТАВЬ_СЮДА_URL_ПРОЕКТА";
-const SUPABASE_ANON_KEY = "ВСТАВЬ_СЮДА_PUBLISHABLE_ИЛИ_ANON_KEY";
+const SUPABASE_URL = "https://mfyuscxmtfoaqoxpavfb.supabase.co/rest/v1/";
+const SUPABASE_ANON_KEY = "sb_publishable_1tAxC9538zJEOyDjOC9I7w_g41ZsCie";
